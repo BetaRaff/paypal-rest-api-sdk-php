@@ -1,14 +1,15 @@
 {
-    "name": "paypal/rest-api-sdk-php",
-    "description": "PayPal's PHP SDK for REST APIs",
+    "name": "betaraff/paypal-rest-api-sdk-php",
+    "description": "Clone of PayPal's PHP SDK for REST APIs",
     "keywords": ["paypal", "payments", "rest", "sdk"],
     "type": "library",
     "license": "Apache-2.0",
-    "homepage": "http://paypal.github.io/PayPal-PHP-SDK/",
+    "homepage": "https://github.com/BetaRaff/paypal-rest-api-sdk-php",
     "authors": [
         {
-            "name": "PayPal",
-            "homepage": "https://github.com/paypal/rest-api-sdk-php/contributors"
+            "name": "Your Name",
+            "email": "your.email@example.com",
+            "homepage": "https://github.com/BetaRaff"
         }
     ],
     "require": {
